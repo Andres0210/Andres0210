@@ -14,7 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌟 Habilidades 
+### 🌟 Habilidades Técnicas
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+- ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+- ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+- ![Material UI](https://img.shields.io/badge/-Material_UI-000000?style=flat&logo=material-ui)
+- ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+- ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+
 
 ### 📫 Contacto
 
