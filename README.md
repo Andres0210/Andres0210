@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Soy un apasionado desarrollador fullStack con habilidades técnicas en tecnologías web como JavaScript, React, HTML, CSS, Express, Node, Sequelize y PostgreSQL. Me gusta trabajar en equipo, con buena comunicación y orientado a la resolución de problemas. ¡Gracias por visitar mi perfil de GitHub!
+
+
+
+
 ### 🌟 Habilidades Técnicas
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
