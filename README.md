@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ### 📫 Contacto
 
 Si estás interesado en contactarme, puedes encontrarme en:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amilkar-andres-ibarra-cuadrado-221b98115/) 
 
-[![LinkedIn]](https://www.linkedin.com/in/amilkar-andres-ibarra-cuadrado-221b98115/)
