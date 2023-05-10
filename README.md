@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hola, soy Amilcar Ibarra 👋
 
 <!--
 **Andres0210/Andres0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌟 Habilidades 
+
+### 📫 Contacto
+
+Si estás interesado en contactarme, puedes encontrarme en:
+
+[LinkedIn](https://www.linkedin.com/in/amilkar-andres-ibarra-cuadrado-221b98115/)
