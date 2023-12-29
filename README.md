@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 - ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
-
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📫 Contacto
 
