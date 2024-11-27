@@ -45,7 +45,7 @@ I'm a passionate **Software Developer** with a strong focus on web technologies.
 ## 🌟 Fun Fact
 
 When I’m not coding, you’ll find me reading about technology trends and personal development books, , or you might catch me at the gym. 🏋️
-Or you can find me at the gym <img src="https://example.com/gym-icon.svg" alt="Gym Icon" width="20"/>
+
 
 
 
