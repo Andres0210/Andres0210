@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amilcar Ibarra</h1>
 
-<h3 align="center">Software Developer | Backend developer </h3>
+<h3 align="center">Electronic Engeneer | Software Developer </h3>
 
 <!--
 **Andres0210/Andres0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
