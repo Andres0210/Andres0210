@@ -1,4 +1,4 @@
-# Hola, soy Amilcar Ibarra 👋
+<h1 align="center">Hi 👋, I'm Amilcar Ibarra</h1>
 
 <!--
 **Andres0210/Andres0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
