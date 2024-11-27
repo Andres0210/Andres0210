@@ -1,43 +1,48 @@
-<h1 align="center">Hi 👋, I'm Amilcar Ibarra</h1>
+# Hi there! 👋
 
-<h3 align="center">Electronic Engeneer | Software Developer </h3>
+I'm a passionate **Software Developer** with a strong focus on web technologies. I enjoy turning complex ideas into scalable, efficient, and user-friendly solutions. 🚀
 
-<!--
-**Andres0210/Andres0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=flat&logo=microsoft-sql-server&logoColor=white)  
+- **Frameworks & Libraries:** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
+- **Database Management:** ![Sequelize](https://img.shields.io/badge/Sequelize-%23696cff.svg?style=flat&logo=sequelize&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
+- **Other Tools:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
-#### Soy un apasionado desarrollador de software con habilidades técnicas en tecnologías web como Java, JavaScript, Springboot, React, HTML, CSS, Express, Node, Sequelize y SQL. Me gusta trabajar en equipo, con buena comunicación y orientado a la resolución de problemas. ¡Gracias por visitar mi perfil de GitHub!
+---
+
+## 🌱 What I’m Currently Working On
+
+- Exploring **cloud computing** and **microservices architecture** to enhance my expertise in scalable systems.  
+- Building projects to deepen my knowledge of full-stack development.  
+
+---
+
+## 📫 Let's Connect
 
 
+- Feel free to connect with me on [LinkedIn](www.linkedin.com/in/amilcar-ibarra-cuadrado-221b98115) or via email at `ing_amilkar@hotmail.com`.
 
+---
 
-### 🌟 Habilidades Técnicas
+## 🚀 Featured Projects
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-- ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-- ![Material UI](https://img.shields.io/badge/-Material_UI-000000?style=flat&logo=material-ui)
-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-- ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- **[ProjectName](#):** Pending.  
+- **[Portfolio Website](#):** pending.  
 
-### 📫 Contacto
+---
 
-Si estás interesado en contactarme, puedes encontrarme en:
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amilcar-andres-ibarra-cuadrado-221b98115/) 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres0210&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres0210&layout=compact&theme=radical)
+
+---
+
+## 🌟 Fun Fact
+
+When I’m not coding, you’ll find me reading about technology trends and personal development books, , or you might catch me at the gym. ☕
+
 
