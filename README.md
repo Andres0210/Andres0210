@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Soy un apasionado desarrollador fullStack con habilidades técnicas en tecnologías web como JavaScript, React, HTML, CSS, Express, Node, Sequelize y PostgreSQL. Me gusta trabajar en equipo, con buena comunicación y orientado a la resolución de problemas. ¡Gracias por visitar mi perfil de GitHub!
+#### Soy un apasionado desarrollador de software con habilidades técnicas en tecnologías web como Java, JavaScript, Springboot, React, HTML, CSS, Express, Node, Sequelize y SQL. Me gusta trabajar en equipo, con buena comunicación y orientado a la resolución de problemas. ¡Gracias por visitar mi perfil de GitHub!
 
 
 
