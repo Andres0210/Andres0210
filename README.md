@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** with a strong focus on web technologies.
 ## 📫 Let's Connect
 
 
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amilcar-ibarra-cuadrado-221b98115)
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amilcar-ibarra-221b98115/)
  or via email at `ing_amilkar@hotmail.com`.
 
 ---
